@@ -1,2 +1,2 @@
 # good-morning
-yawning
+yawning is a present participle
